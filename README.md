@@ -43,7 +43,7 @@ admin.site.register(FootballPlayer,FootballPlayerAdmin)
 
 ```
 ## OUTPUT
-![Alt text](Table.png)
+![image](https://github.com/divz2711/ORM/assets/121245222/8cae6d26-6b8d-4a07-a2a6-bca2bdf455e3)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
